@@ -1,0 +1,12 @@
+D:\DOTNET\tfllib\obj\Debug\net7.0\tfllib.csproj.AssemblyReference.cache
+D:\DOTNET\tfllib\obj\Debug\net7.0\tfllib.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\tfllib\obj\Debug\net7.0\tfllib.AssemblyInfoInputs.cache
+D:\DOTNET\tfllib\obj\Debug\net7.0\tfllib.AssemblyInfo.cs
+D:\DOTNET\tfllib\obj\Debug\net7.0\tfllib.csproj.CoreCompileInputs.cache
+D:\DOTNET\tfllib\bin\Debug\net7.0\tfllib.deps.json
+D:\DOTNET\tfllib\bin\Debug\net7.0\tfllib.dll
+D:\DOTNET\tfllib\bin\Debug\net7.0\tfllib.pdb
+D:\DOTNET\tfllib\obj\Debug\net7.0\tfllib.dll
+D:\DOTNET\tfllib\obj\Debug\net7.0\refint\tfllib.dll
+D:\DOTNET\tfllib\obj\Debug\net7.0\tfllib.pdb
+D:\DOTNET\tfllib\obj\Debug\net7.0\ref\tfllib.dll
