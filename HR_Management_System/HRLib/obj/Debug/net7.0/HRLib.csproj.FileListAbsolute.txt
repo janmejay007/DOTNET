@@ -1,0 +1,12 @@
+D:\C#\HR_Management_System\HRLib\bin\Debug\net7.0\HRLib.deps.json
+D:\C#\HR_Management_System\HRLib\bin\Debug\net7.0\HRLib.dll
+D:\C#\HR_Management_System\HRLib\bin\Debug\net7.0\HRLib.pdb
+D:\C#\HR_Management_System\HRLib\obj\Debug\net7.0\HRLib.csproj.AssemblyReference.cache
+D:\C#\HR_Management_System\HRLib\obj\Debug\net7.0\HRLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HR_Management_System\HRLib\obj\Debug\net7.0\HRLib.AssemblyInfoInputs.cache
+D:\C#\HR_Management_System\HRLib\obj\Debug\net7.0\HRLib.AssemblyInfo.cs
+D:\C#\HR_Management_System\HRLib\obj\Debug\net7.0\HRLib.csproj.CoreCompileInputs.cache
+D:\C#\HR_Management_System\HRLib\obj\Debug\net7.0\HRLib.dll
+D:\C#\HR_Management_System\HRLib\obj\Debug\net7.0\refint\HRLib.dll
+D:\C#\HR_Management_System\HRLib\obj\Debug\net7.0\HRLib.pdb
+D:\C#\HR_Management_System\HRLib\obj\Debug\net7.0\ref\HRLib.dll

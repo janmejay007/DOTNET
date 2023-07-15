@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "HRLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/HRLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HRLib.dll": {}
+        }
+      },
+      "Taxation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Taxation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Taxation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HRLib/1.0.0": {
+      "type": "project",
+      "path": "../HRLib/HRLib.csproj",
+      "msbuildProject": "../HRLib/HRLib.csproj"
+    },
+    "Taxation/1.0.0": {
+      "type": "project",
+      "path": "../Taxation/Taxation.csproj",
+      "msbuildProject": "../Taxation/Taxation.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "HRLib >= 1.0.0",
+      "Taxation >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\janme\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\C#\\HR_Management_System\\HR_Management_System\\HR_Management_System.csproj",
+      "projectName": "HR_Management_System",
+      "projectPath": "D:\\C#\\HR_Management_System\\HR_Management_System\\HR_Management_System.csproj",
+      "packagesPath": "C:\\Users\\janme\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\HR_Management_System\\HR_Management_System\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\janme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\C#\\HR_Management_System\\HRLib\\HRLib.csproj": {
+              "projectPath": "D:\\C#\\HR_Management_System\\HRLib\\HRLib.csproj"
+            },
+            "D:\\C#\\HR_Management_System\\Taxation\\Taxation.csproj": {
+              "projectPath": "D:\\C#\\HR_Management_System\\Taxation\\Taxation.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
